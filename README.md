@@ -4,7 +4,7 @@ Don't take this too serious.
 
 ## Projects
 - [x] React boilerplate
-- [ ] Universal React Redux boilerplate
+- [x] Universal React Redux boilerplate
 - [ ] React Native boilerplate
 
 ## Components
