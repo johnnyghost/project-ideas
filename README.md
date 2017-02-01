@@ -6,7 +6,7 @@ Don't take this too serious.
 - [x] React boilerplate
 - [x] Universal React Redux boilerplate
 - [ ] React Native boilerplate
-- [x] Swift test project
+- [ ] Swift test project
 
 ## Components
  - [ ] word animator
